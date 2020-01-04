@@ -1,0 +1,5 @@
+/** No CSS for this example */
+
+::ng-deep .no-line .mat-form-field-underline {
+  display: none;
+}
